@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QrnNL66p2Ma1TOgKyP0J/1WhTdP9zAuWM/MZsBPnoynRNa2sVouRQ6zL+dCmHqyUQNgPrAKBH/dVLiparoKRUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asl11\\source\\repos\\Prog2400_Mid-Term\\Prog2400_Mid-Term\\Prog2400_Mid-Term.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asl11\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\bin\Debug\netcoreapp3.1\Prog2400_Mid-Term.exe
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\bin\Debug\netcoreapp3.1\Prog2400_Mid-Term.deps.json
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\bin\Debug\netcoreapp3.1\Prog2400_Mid-Term.runtimeconfig.json
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\bin\Debug\netcoreapp3.1\Prog2400_Mid-Term.runtimeconfig.dev.json
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\bin\Debug\netcoreapp3.1\Prog2400_Mid-Term.dll
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\bin\Debug\netcoreapp3.1\Prog2400_Mid-Term.pdb
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\obj\Debug\netcoreapp3.1\Prog2400_Mid-Term.csproj.AssemblyReference.cache
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\obj\Debug\netcoreapp3.1\Prog2400_Mid-Term.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\obj\Debug\netcoreapp3.1\Prog2400_Mid-Term.AssemblyInfoInputs.cache
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\obj\Debug\netcoreapp3.1\Prog2400_Mid-Term.AssemblyInfo.cs
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\obj\Debug\netcoreapp3.1\Prog2400_Mid-Term.csproj.CoreCompileInputs.cache
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\obj\Debug\netcoreapp3.1\Prog2400_Mid-Term.dll
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\obj\Debug\netcoreapp3.1\Prog2400_Mid-Term.pdb
+C:\Users\asl11\source\repos\Prog2400_Mid-Term\Prog2400_Mid-Term\obj\Debug\netcoreapp3.1\Prog2400_Mid-Term.genruntimeconfig.cache
